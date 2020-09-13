@@ -4,7 +4,7 @@
   <br>👋 Hi there, I am Shivang.<br>
  
   <br>
-    <img src="https://media1.tenor.com/images/6fbb8ea8381b75a8c82eb23a8eb63510/tenor.gif?itemid=3531701" alt="tenor GIF" width="600"height="400">
+    <img src="https://media1.tenor.com/images/6fbb8ea8381b75a8c82eb23a8eb63510/tenor.gif?itemid=3531701" alt="tenor GIF" width = "100%" height="400">
  </abc>
 </h3> 
 
